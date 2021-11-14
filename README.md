@@ -55,3 +55,13 @@ The dataset can be downloaded here: https://archive.ics.uci.edu/ml/datasets/spam
 **5. ML Algorithm's Scores for the Iris Dataset**
 ![image](https://user-images.githubusercontent.com/54996245/141677442-43190b6c-c761-42c5-9531-6fb5cbb6bc2c.png)
 ![image](https://user-images.githubusercontent.com/54996245/141677444-7da0ab25-ac71-4b2c-ab1c-e0dcdb15898f.png)
+
+### Here are some of the key outcomes of the project:
+- The Dataset was small totally around 4600 samples & after preprocessing 6.2% of the datasamples were dropped. 
+- The spam emails were 20% more than non-spam ones, hence SMOTE Technique was applied on the data to  balance the classes, adding 13.5% more samples to the dataset.
+- Visualising the distribution of data & their relationships, helped us to get some insights on the sparse matrix distribution.
+- The large feature set was reduced by Feature Extraction Technique - PCA, reducing to 30 features.
+- Testing multiple algorithms with default hyperparamters gave us some understanding for various models performance on this specific dataset.
+- The ensemble & boosting algorithms perform the best on the current dataset, followed by Support Vector Machines.
+- Yet it wise to also consider simpler model like Logistic Regression as it is more generalisable & is computationally less expensive.
+
