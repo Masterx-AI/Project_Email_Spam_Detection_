@@ -35,21 +35,21 @@ The dataset can be downloaded here: https://archive.ics.uci.edu/ml/datasets/spam
 
 ![image](https://user-images.githubusercontent.com/54996245/141677301-5eaaab92-136e-44a2-80d5-329c7249a045.png)
 
-**3. Relationship between the Feature-set**
+**3. Data Retention after preforming preprocessing step**
 
-![image](https://user-images.githubusercontent.com/54996245/140968656-574e4edc-3f4c-4c3a-9359-07bde41d538a.png)
+![image](https://user-images.githubusercontent.com/54996245/141677403-b634ae2a-fff4-4576-a1ed-649fc9a1c5d1.png)
 
-**4. Data Retention after preforming preprocessing step**
+**4. Correlation plot for features**
 
-![image](https://user-images.githubusercontent.com/54996245/140968701-7b426b4b-9740-4398-a3c0-0e5ae190cc8e.png)
+![image](https://user-images.githubusercontent.com/54996245/141677415-6a207c1e-146a-4ec4-b656-2a3d1673fe14.png)
 
-**5. Correlation plot for features**
+**6. PCA Feature Importance**
 
-![image](https://user-images.githubusercontent.com/54996245/140968731-2d37bde1-3235-4a07-813d-1313339e481c.png)
+![image](https://user-images.githubusercontent.com/54996245/141677429-8fc7e07e-e5a1-4496-8bea-6cbbc9d8cca0.png)
 
-**6. ROC Plots**
+**5. ROC Plots**
 
-![image](https://user-images.githubusercontent.com/54996245/140968858-ac6271bb-f3a6-4a07-a353-6529eea56b2b.png)
+![image](https://user-images.githubusercontent.com/54996245/141677436-2bafe4aa-08ed-477c-9977-8afbb9156ea2.png)
 
 
 **5. ML Algorithm's Scores for the Iris Dataset**
