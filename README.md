@@ -53,5 +53,5 @@ The dataset can be downloaded here: https://archive.ics.uci.edu/ml/datasets/spam
 
 
 **5. ML Algorithm's Scores for the Iris Dataset**
-![image](https://user-images.githubusercontent.com/54996245/140968943-d4051d54-2b91-4b59-921f-0629c925a86d.png)
-![image](https://user-images.githubusercontent.com/54996245/140968960-fb10b8e0-1787-46be-bf4b-af1d8bbb6418.png)
+![image](https://user-images.githubusercontent.com/54996245/141677442-43190b6c-c761-42c5-9531-6fb5cbb6bc2c.png)
+![image](https://user-images.githubusercontent.com/54996245/141677444-7da0ab25-ac71-4b2c-ab1c-e0dcdb15898f.png)
