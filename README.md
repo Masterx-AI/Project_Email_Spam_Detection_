@@ -1,4 +1,4 @@
-# Project_Email_Spam_Detection 📧
+# AI/ML Project: Email Spam Detection 📧
 
 <p align="center"><img src="https://user-images.githubusercontent.com/54996245/141677263-c3b8fabf-5108-4d12-b5d1-55bfb55b2c28.jpg" style="width: 1000px;"/></p>
 
